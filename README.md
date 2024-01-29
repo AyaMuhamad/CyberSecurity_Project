@@ -1,1 +1,3 @@
 # CyberSecurity_Project
+
+It is a project about hacking a site similar to Facebook. It contains 18 security vulnerabilities from the OASP (which talks about the most famous vulnerabilities) and they were discovered. This file contains all of them and also contains recommendations to prevent the existence of these vulnerabilities and also to try discovering these vulnerabilities. I have installed an Ubuntu server and a virtual machine. On which you can download Kali Linux, for example, or any tool to create a virtual copy of Linux and the server to take the IP so that you will have the ability to open this site and discover vulnerabilities.
